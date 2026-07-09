@@ -1,5 +1,5 @@
 ﻿<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=200&section=header&text=La%20Guerre%20Des%20Capsules&fontSize=50&fontAlignY=40&animation=twinkling&desc=Jeu%20Godot%20Engine&descAlignY=60&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=custom&customColorList=8a2be2&height=200&section=header&text=La%20Guerre%20Des%20Capsules&fontSize=50&fontAlignY=40&animation=twinkling&desc=Jeu%20Godot%20Engine&descAlignY=60&descAlign=50" alt="Header" />
 </div>
 
 <h3 align="center">ðŸŽ® Un jeu passionnant dÃ©veloppÃ© avec Godot Engine. Plongez dans la bataille !</h3>
