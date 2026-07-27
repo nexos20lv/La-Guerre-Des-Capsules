@@ -1,5 +1,5 @@
 <div align="center">
-  ![La Guerre Des Capsules Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=La%20Guerre%20Des%20Capsules&fontSize=48&fontAlignY=40&animation=twinkling&desc=Jeu%20Indie%20D%C3%A9velopp%C3%A9%20avec%20Godot%20Engine&descAlignY=60&descAlign=50)
+  ![La Guerre Des Capsules Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=La%20Guerre%20Des%20Capsules&fontSize=48&fontAlignY=40&animation=twinkling&desc=Jeu%20Indie%20D%C3%A9velopp%C3%A9%20avec%20Godot%20Engine&descAlignY=60&descAlign=50&fontColor=ffffff)
 
   <p align="center">
     ![Godot Engine](https://img.shields.io/badge/Engine-Godot_Engine_4.x-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
