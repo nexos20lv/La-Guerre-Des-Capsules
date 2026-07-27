@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:7b2cbf,100:c77dff&amp;height=200&amp;section=header&amp;text=La%20Guerre%20Des%20Capsules&amp;fontSize=48&amp;fontAlignY=40&amp;animation=twinkling&amp;desc=Jeu%20Indie%20D%C3%A9velopp%C3%A9%20avec%20Godot%20Engine&amp;descAlignY=60&amp;descAlign=50" alt="La Guerre Des Capsules Banner" />
+  ![La Guerre Des Capsules Banner](https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:c77dff&height=200&section=header&text=La%20Guerre%20Des%20Capsules&fontSize=48&fontAlignY=40&animation=twinkling&desc=Jeu%20Indie%20D%C3%A9velopp%C3%A9%20avec%20Godot%20Engine&descAlignY=60&descAlign=50)
 
   <p align="center">
-    <img src="https://img.shields.io/badge/Engine-Godot_Engine_4.x-478CBF?style=for-the-badge&amp;logo=godotengine&amp;logoColor=white" alt="Godot Engine">
-    <img src="https://img.shields.io/badge/Language-GDScript-478CBF?style=for-the-badge&amp;logo=godotengine&amp;logoColor=white" alt="GDScript">
-    <img src="https://img.shields.io/badge/Genre-Indie_Action_Game-FF4500?style=for-the-badge" alt="Genre">
-    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+    ![Godot Engine](https://img.shields.io/badge/Engine-Godot_Engine_4.x-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+    ![GDScript](https://img.shields.io/badge/Language-GDScript-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+    ![Genre](https://img.shields.io/badge/Genre-Indie_Action_Game-FF4500?style=for-the-badge)
+    ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
   </p>
 
   <p align="center">
